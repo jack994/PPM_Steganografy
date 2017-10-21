@@ -2,7 +2,7 @@
 
 Steganography is a technique for hiding text in images, by replacing successive random pixels in the image with letters from the text. The text is then retrieved by comparing the new image with the old image, and extracting letters from the new one where it differs from the old one.
 
-This program works with PPM images, some samples are in the PPM_3 Folder.
+This program works with PPM images, some samples are in the 'P3 PPM' Folder.
 
 --------------------------------------///\\\///\\\///\\\-------------------------------------------
 
