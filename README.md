@@ -1,6 +1,6 @@
 # PPM_Steganography
 
-THE CODE FOR THIS PROJECT HAS BEEN ENCRYPTED DUE TO SIMILARITIES TO THE COURSEWORK OF THE CURRENT YEAR 2, TO HAVE ACCESS TO THE CODE SEND AN EMAIL TO gb11@hw.ac.uk
+THE CODE FOR THIS PROJECT HAS BEEN ENCRYPTED DUE TO SIMILARITIES TO THE COURSEWORK OF THE CURRENT YEAR 2, TO HAVE ACCESS TO THE CODE SEND AN EMAIL TO giacomobenso94@gmail.com
 
 Steganography is a technique for hiding text in images, by replacing successive random pixels in the image with letters from the text. The text is then retrieved by comparing the new image with the old image, and extracting letters from the new one where it differs from the old one.
 
